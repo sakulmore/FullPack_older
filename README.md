@@ -15,11 +15,17 @@ This FullPack is useful for servers that have plugins that aren't mostly compati
 - Done.
 
 ## Content
+### Main
 | Name | Version |
 |-|-|
 | [AMX Mod X](https://www.amxmodx.org/downloads-new.php?branch=master&all=1) | 1.10.5467 |
 | [DProto](https://www.amxmod.net/forum/showthread.php?tid=1376) | 0.9.582 |
 | [VTC](https://gamebanana.com/mods/39668) | 80.1 |
+
+### Server Version (HLDS)
+| Name |
+|-|
+| b7559 |
 
 ## Support
 If you having any issues, feel free to contact me through Issue section :) .
