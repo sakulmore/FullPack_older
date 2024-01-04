@@ -23,7 +23,7 @@ This FullPack is useful for servers that have plugins that aren't mostly compati
 | [VTC](https://gamebanana.com/mods/39668) | 80.1 |
 
 ### Server Version (HLDS)
-| Name |
+| Version |
 |-|
 | b7559 |
 
