@@ -19,6 +19,7 @@ This FullPack is useful for servers that have plugins that aren't mostly compati
 | Name | Version |
 |-|-|
 | [AMX Mod X](https://www.amxmodx.org/downloads-new.php?branch=master&all=1) | 1.10.5467 |
+| [Metamod](https://www.amxmodx.org/downloads-new.php?branch=master&all=1) | (Delivered with AMX Mod X) |
 | [DProto](https://www.amxmod.net/forum/showthread.php?tid=1376) | 0.9.582 |
 | [VTC](https://gamebanana.com/mods/39668) | 80.1 |
 
