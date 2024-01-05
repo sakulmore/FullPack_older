@@ -3,6 +3,8 @@ This older FullPack contains latest AMC Mod X, DProto and VTC.
 
 This FullPack is useful for servers that have plugins that aren't mostly compatible with the latest ReGameDLL and ReHLDS.
 
+This Full Pack also includes the corrected geoip_amxx_i386.so and GeoLite2-City.mmdb files.
+
 ## Installation
 - We will need a clean installation of the game server Counter-Strike 1.6.
 
