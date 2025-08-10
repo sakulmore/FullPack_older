@@ -1,5 +1,5 @@
 # FullPack (OLDER) for CS 1.6
-This older FullPack contains latest AMC Mod X, DProto and VTC.
+This older FullPack contains latest AMX Mod X, DProto and VTC.
 
 This FullPack is useful for servers that have plugins that aren't mostly compatible with the latest ReGameDLL and ReHLDS.
 
